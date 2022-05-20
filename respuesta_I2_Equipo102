@@ -11,3 +11,42 @@ C) No,  GAMMA no puede actualizar su fork al estado de ALFA debido a que el fork
 D) No, no se pierden los datos
 
 E)
+					Tobias Galvez:
+Crea repositorio
+Crea "fork.txt"
+git add .
+git commit m- ""
+git push
+
+Crea "NuevoDato.txt"
+git add .
+git commit m- ""
+git push
+
+Crea "respuesta_I2_Equipo102" y responde 2 preguntas:
+git add .
+git commit m- ""
+git push
+
+Acepta el pull request para modificar el archivo de las preguntas.
+
+					Rojas Agustin y Bianca Casetta:
+Fork desde GitHub de la rama master (la de Beta).
+
+Modificar "fork.txt" y subirlo al fork:
+git add .
+git commit m- ""
+git push
+
+Actualizar la branch para que quede igual al master y se muestre NuevoDato.txt y el archivo con las preguntas:
+Fetch upstream (desde GitHub)
+Fetch and Merge (desde GitHub)
+
+Contestar las preguntas y subirlas al fork:
+git add .
+git commit m- ""
+git push
+
+Iniciar un pull request para completar las preguntas en la rama master/main:
+contribute (desde GitHub)
+Open pull request (desde GitHub)
