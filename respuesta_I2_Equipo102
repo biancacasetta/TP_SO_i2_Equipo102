@@ -6,8 +6,8 @@ A) Desde mi repositorio forkeado en GitHub, selecciono Fetch upstream > Fetch an
 
 B) No, solo se puede actualizar un repositorio forkeado al estado del repositorio original, o sea solo el de BETA
 
-C)
+C) No,  GAMMA no puede actualizar su fork al estado de ALFA debido a que el fork es al repositorio de BETA
 
-D)
+D) No, no se pierden los datos
 
 E)
